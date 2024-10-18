@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 
 Na sintaxe Markdown, ### renderiza o texto sem formatação como um pequeno título ("terceiro nível"), enquanto ## ou # renderizam um título de segundo e primeiro nível, respectivamente.
 
+Solução: criar uma aplicativo de gerenciamento financeiro que tenha OKR e GTD;
 -->
